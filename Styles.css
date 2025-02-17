@@ -3,9 +3,10 @@ html {
     font-family: 'Roboto', sans-serif;
     display: grid;
     background-image: url(Imagenes/thumb-1920-348731.jpg);
-    margin: 0px;
+    margin: 10px;
     padding: 0px;
     height: 0px;
+    justify-items: auto;
 }
 
 
